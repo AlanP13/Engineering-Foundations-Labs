@@ -29,3 +29,5 @@ This changelog reconstructs the development history of the project.
 
 - 2019-11-12: debugging/improvements (reconstructed notes)
 
+- 2019-11-19: debugging/improvements (reconstructed notes)
+
